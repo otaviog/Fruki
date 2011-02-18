@@ -1,0 +1,14 @@
+Warning: College Project
+
+Fruki: A Markov Chain graphical representation generator from
+Stochastic Automata Networks.
+
+Fruki reads a SAN description file and then outputs an image
+of the corresponding Markov Chain. The graphical generation
+uses the graphviz (http:/www.graphviz.org) software package,
+download it.
+
+This is beta code (C# for MSVC2010), need documentation and
+more testing.
+
+For SAN language syntax, see it's grammar SAN.g and the samples.
